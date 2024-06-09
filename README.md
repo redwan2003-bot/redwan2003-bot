@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
-https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g
+<h3 align="center">Sometimes being late, is being right on time 📝🕰️</h3>
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ5emFzdWRqdzF1cXhyZ2R6cjM4aHdweTVpZTI3ZmpoOWE4NmtpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=0e75b6&style=flat" alt="redwan2003-bot" /> </p>
 
