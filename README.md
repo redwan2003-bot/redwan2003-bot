@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">Sometimes being late, is being right on time 📝🕰️</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/1fZB.gif">
+
+![1apV](https://github.com/redwan2003-bot/redwan2003-bot/assets/146144832/f69e21d0-880a-4d4c-af8e-a3b5c79e55ad)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=0e75b6&style=flat" alt="redwan2003-bot" /> </p>
