@@ -1,7 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">Sometimes being late, is being right on time 📝🕰️</h3>
-[https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp)
-
+img align="right" alt="Coding" width="400" src="([https://i.gifer.com/1fZB.gif](https://i.gifer.com/1fZB.gif))">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=0e75b6&style=flat" alt="redwan2003-bot" /> </p>
 
 - 📫 How to reach me **reahs302444@gmail.com**
