@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">Sometimes being late, is being right on time 📝🕰️</h3>
 
-![1apV](https://github.com/redwan2003-bot/redwan2003-bot/assets/146144832/f69e21d0-880a-4d4c-af8e-a3b5c79e55ad)
-
+![giphy](https://github.com/redwan2003-bot/redwan2003-bot/assets/146144832/a18b347a-0d49-478f-a9be-fa26c1a5cc3e)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=0e75b6&style=flat" alt="redwan2003-bot" /> </p>
 
