@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Redwan Ahmed</h1>
 <h3 align="center">Sometimes being late, is being right on time 📝🕰️</h3>
-https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html
+[https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=0e75b6&style=flat" alt="redwan2003-bot" /> </p>
 
