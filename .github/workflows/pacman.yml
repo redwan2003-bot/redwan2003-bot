@@ -1,0 +1,50 @@
+name: Update Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once per day at 00:00 UTC
+  workflow_dispatch:       # allow manual run from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install pacman-contribution-graph
+        run: |
+          npm init -y
+          npm install @andreruperto/svg-pacman-contributions
+
+      - name: Generate Pac-Man SVGs
+        run: |
+          mkdir -p dist
+          node - << 'EOF'
+          import { generatePacmanContributions } from "@andreruperto/svg-pacman-contributions";
+
+          const fs = await import("fs");
+
+          const options = {
+            username: "redwanahmmed",
+            platform: "github",
+            theme: "github-dark",
+          };
+
+          const svg = await generatePacmanContributions(options);
+          fs.writeFileSync("dist/pacman-contribution-graph-dark.svg", svg);
+          EOF
+
+      - name: Publish Pac-Man SVG
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
