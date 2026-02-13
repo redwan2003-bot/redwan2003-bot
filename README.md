@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Redwan Ahmmed</h1>
+<h3 align="center">Hardware Specialist (R&D) & Backend Developer @ UIU Robotics Club</h3>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=redwan2003-bot">
     <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=00FFFF&style=flat-square" alt="redwan2003-bot's profile views" />
