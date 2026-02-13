@@ -9,12 +9,12 @@ EasyEDA Campus Ambassador · CSE @ United International University
 
 ### 🚀 About Me
 
-Driven by precision—from deep-space analysis to micro-circuit optimization, I build systems where reliable backend logic meets robust hardware performance. 
-- 🎓 BSc in Computer Science & Engineering @ United International University (UIU)
+Driven by precision—from deep-space analysis to micro-circuit optimization, I build systems where reliable backend logic meets robust hardware performance.  
+- 🎓 BSc in Computer Science & Engineering @ United International University (UIU)  
 - 🤖 Backend Developer (Software Team) & Hardware Specialist (R&D Team) @ UIU Robotics Club  
-- 🛰️ 2× Bronze Honor – International Astronomy & Astrophysics Competition (IAAC) 2021, 2023
-- 🌌 Global Finalist – International Astronomy and Asteroid Search Campaign (IASC) 2019, 2020 
-- 🛠 EasyEDA Campus Promotion Ambassador, promoting professional-grade PCB design workflows
+- 🛰️ 2× Bronze Honor – International Astronomy & Astrophysics Competition (IAAC) 2021, 2023  
+- 🌌 Global Finalist – International Astronomy and Asteroid Search Campaign (IASC) 2019, 2020  
+- 🛠 EasyEDA Campus Promotion Ambassador, promoting professional-grade PCB design workflows  
 
 I love designing high-torque robotic systems, optimizing PCB chassis motherboards, and building low-latency ESP32-based robotic backends.
 
@@ -22,19 +22,19 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 
 ### 🧠 Core Expertise
 
-- **Hardware**: PCB chassis motherboard optimization for Line Following Robot (LFR) series, high-torque robotic drive systems, focus on circuit integrity and mechanical durability for Robo Soccer, Robo Race, and project showcases. 
+- **Hardware**: PCB chassis motherboard optimization for Line Following Robot (LFR) series, high-torque robotic drive systems, focus on circuit integrity and mechanical durability for Robo Soccer, Robo Race, and project showcases.  
 - **Backend & Embedded**: ESP32-based systems, low-latency communication protocols, C/C++, PSXLib, and backend services for robotics and IoT solutions.  
-- **Competitive Robotics**: Consistent top-tier performer in KUET Bitfest, UIU CSE Fest, and intra-university robotics events. 
-- **Space Tech & Research**: Astronomy and astrophysics competitions, asteroid search campaigns, and experience with UIU Mars Rover and CanSat teams.
+- **Competitive Robotics**: Consistent top-tier performer in KUET Bitfest, UIU CSE Fest, and intra-university robotics events.  
+- **Space Tech & Research**: Astronomy and astrophysics competitions, asteroid search campaigns, and experience with UIU Mars Rover and CanSat teams.  
 
 ---
 
 ### 🛠 Tech Stack
 
 - **Languages**: C, C++, Python, JavaScript/TypeScript  
-- **Embedded & Robotics**: ESP32, Arduino ecosystem, PSXLib, motor drivers, sensors, LFRs, Robo Soccer and Robo Race platforms
-- **Backend & Tools**: REST APIs, Git, Linux, basic CI/CD, container/tooling where needed  
-- **EDA & Hardware**: EasyEDA Pro, PCB design and routing, component placement for manufacturing and reliability
+- **Embedded & Robotics**: ESP32, Arduino ecosystem, PSXLib, motor drivers, sensors, LFRs, Robo Soccer and Robo Race platforms  
+- **Backend & Tools**: REST APIs, Git, Linux, basic CI/CD, DevOps tooling as needed  
+- **EDA & Hardware**: EasyEDA Pro, PCB design and routing, component placement for manufacturing and reliability  
 
 ---
 
@@ -52,15 +52,17 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 - **Mars Rover & CanSat Subsystems (UIU)**  
   Contributed to hardware and embedded work for the UIU Mars Rover and CanSat teams, integrating sensors and control logic for research-driven platforms.
 
+*(Link each item to its repository once you push the code.)*
+
 ---
 
 ### 🏅 Honors & Achievements
 
 - 🥉 Bronze Honor – International Astronomy & Astrophysics Competition (IAAC) 2021, 2023  
-- 🌍 Global Finalist – International Astronomy and Asteroid Search Campaign (IASC) 2019, 2020 
+- 🌍 Global Finalist – International Astronomy and Asteroid Search Campaign (IASC) 2019, 2020  
 - 🏆 National Finalist (Top 5) – KUET Bitfest 2025  
-- 🏅 National Finalist (Top 8) – UIU CSE Fest ’25
-- ⚽ 2nd Runner-Up – Rush Hour (Robo Soccer)
+- 🏅 National Finalist (Top 8) – UIU CSE Fest ’25  
+- ⚽ 2nd Runner-Up – Rush Hour (Robo Soccer)  
 
 ---
 
@@ -68,7 +70,7 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/redwanahmmed/redwanahmmed/output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/redwan2003-bot/redwan2003-bot/output/pacman-contribution-graph-dark.svg"
     alt="Pac-Man contribution graph"
   />
 </p>
@@ -79,14 +81,14 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=redwanahmmed&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=redwan2003-bot&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=redwanahmmed&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=redwan2003-bot&theme=tokyonight"
     alt="GitHub streak"
   />
 </p>
@@ -95,8 +97,8 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 
 ### 🤝 Let’s Connect
 
-- 📩 Email: **reah30244@gmail.com** (primary) · alt: **reahs302444@gmail.com**
-- 💼 LinkedIn: (https://www.linkedin.com/in/redwanahmmed)
-- 📍 Dhaka, Bangladesh
+- 📩 Email: **reah30244@gmail.com** (primary) · alt: **reahs302444@gmail.com**  
+- 💼 LinkedIn: (https://www.linkedin.com/in/redwanahmmed)  
+- 📍 Dhaka, Bangladesh  
 
 If you’re working on robotics, embedded systems, or space-tech inspired projects, I’m always open to collaborations and research-focused builds.
