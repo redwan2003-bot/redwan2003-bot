@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Redwan%20Ahmmed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Hardware%20Specialist%20(R%26D)%20%26%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=redwan2003-bot">
     <img src="https://komarev.com/ghpvc/?username=redwan2003-bot&label=Profile%20views&color=00FFFF&style=flat-square" alt="redwan2003-bot's profile views" />
