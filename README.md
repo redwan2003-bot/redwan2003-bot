@@ -98,7 +98,7 @@ I love designing high-torque robotic systems, optimizing PCB chassis motherboard
 ### 🤝 Let’s Connect
 
 - 📩 Email: **reah30244@gmail.com** (primary) · alt: **reahs302444@gmail.com**  
-- 💼 LinkedIn: (https://www.linkedin.com/in/redwanahmmed)  
+- 💼 LinkedIn: [linkedin.com/in/redwanahmmed](https://www.linkedin.com/in/redwanahmmed)  
 - 📍 Dhaka, Bangladesh  
 
 If you’re working on robotics, embedded systems, or space-tech inspired projects, I’m always open to collaborations and research-focused builds.
