@@ -29,9 +29,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=redwan2003-bot&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="redwan2003-bot's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=redwan2003-bot&theme=highcontrast&radius=10" alt="redwan2003-bot's Activity Graph" />
-</p>
+
 
 
 
